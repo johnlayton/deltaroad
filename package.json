@@ -1,0 +1,23 @@
+{
+  "name": "deltaroad",
+  "version": "0.0.0",
+  "description": "leveldb test project",
+  "main": "deltaroad-server.js",
+  "scripts": {
+  },
+  "repository": "",
+  "author": "johnstewartlayton@gmail.com",
+  "license": "BSD",
+  "dependencies": {
+    "levelup":         "*",
+    "csrf-lite":       "*",
+    "cookies":         "*",
+    "querystring":     "*",
+    "express":         "*",
+    "mysql":           "*",
+    "ejs":             "*",
+    "socket.io":       "*",
+    "d3":              "*",
+    "less-middleware": "*"
+  }
+}
